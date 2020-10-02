@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sunsets & Beaches
 
 You can use the [editor on GitHub](https://github.com/leejulianna/sunsetsandbeaches/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

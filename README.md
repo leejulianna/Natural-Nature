@@ -1,37 +1,39 @@
-## Welcome to Sunsets & Beaches
+## Welcome to Natural Nature!
 
-You can use the [editor on GitHub](https://github.com/leejulianna/sunsetsandbeaches/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! This is a page that contains various photos of nature from beaches, to sunsets, to forests. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hope you enjoy these photos!
 
-### Markdown
+### Sunsets
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](IMG_0694.JPG)
 
-```markdown
-Syntax highlighted code block
+Taken at San Clemente Beach in August 2020
 
-# Header 1
-## Header 2
-### Header 3
+![Image](IMG_5797.JPG)
 
-- Bulleted
-- List
+Taken in Hong Kong in June 2019
 
-1. Numbered
-2. List
+### Beaches
 
-**Bold** and _Italic_ and `Code` text
+![Image](IMG_0321.jpg)
 
-[Link](url) and ![Image](src)
-```
+Taken at Dana Point in August 2020
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](IMG_7178.JPG)
 
-### Jekyll Themes
+Taken at Seal Beach in June 2018
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leejulianna/sunsetsandbeaches/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Forests/Mountains
 
-### Support or Contact
+![Image](IMG_6028.JPG)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Taken at Sequoia National Park in July 2019
+
+![Image](IMG_0859.JPG)
+
+Taken at Sequoia National Park in July 2018
+
+
+**THANK YOU FOR STOPPING BY!**
+Check out more of my photos [here](https://drive.google.com/drive/folders/1AERThT0wvqt3CtsGU0hW_SzZnMzemyT2?usp=sharing)!
